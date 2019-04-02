@@ -1,14 +1,10 @@
 #include <stdio.h>
 
-int main() {
 
-printf("Lets go\n");
-
-int x = 2;
-
-printf("%d\n", x);
-
-
-return 0;
+int main()
+{
+    int a;
+    scanf("%d",&a);
+    printf("%d",a);
+    return 0;
 }
-
